@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @backspacesh
+- 👋 Hi, I’m Murad
 - 👀 I’m interested in backend developing
 - 🌱 I’m currently learning golang
+- I am also know HTML, CSS, Javascript
 
 <!---
 backspacesh/backspacesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
